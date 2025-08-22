@@ -1,0 +1,4 @@
+style_backup.txt
+*.tmp
+*.bak
+.DS_Store
